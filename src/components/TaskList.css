@@ -1,0 +1,15 @@
+.task-list p {
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+.task-list span {
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.list .icon {
+  display: inline-block;
+  margin-left: 2rem;
+  color: crimson;
+}
